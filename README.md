@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **FuryBot**
 
-- 🌱 I’m currently learning **Full Stack Developements**
-
-- 💬 You can ask me about **Javascript**
+- 🌱 I’m currently learning **Full Stack Developement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
