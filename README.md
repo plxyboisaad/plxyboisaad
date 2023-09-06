@@ -12,33 +12,33 @@
 </a>
 
 ## Skills:
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" height="40"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" height="40"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" height="40"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mongodb.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" height="40"/>
 </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" height="40"/>
 </a>
 
 ## Learning:
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<a href="https://www.python.org" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" height="40"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="https://reactjs.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" height="40"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" height="40"/>
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<a href="https://vuejs.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs" height="40"/>
 </a>
 
@@ -46,5 +46,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=skl2rr&label=Profile%20views&color=0e75b6&style=flat" alt="skl2rr" />
 </p>
-
-
