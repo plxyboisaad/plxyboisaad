@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sklar.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skl2rr&label=Profile%20views&color=0e75b6&style=flat" alt="skl2rr" /> </p>
 
-- 👋 Hi, I’m @i0spz
+- 👋 Hi, I’m @sklar
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning full-stack development
 - 📫 How to reach me? visit my [Instagram](https://www.instagram.com/skl2rr/)
