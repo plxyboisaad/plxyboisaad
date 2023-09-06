@@ -42,13 +42,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </a>
 
+## Profile Views:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=skl2rr&label=Profile%20views&color=0e75b6&style=flat" alt="skl2rr" />
+</p>
+
 ## GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skl2rr&show_icons=true&locale=en&layout=compact" alt="skl2rr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skl2rr&show_icons=true&locale=en" alt="skl2rr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skl2rr&" alt="skl2rr" /></p>
 
-## Profile Views:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=skl2rr&label=Profile%20views&color=0e75b6&style=flat" alt="skl2rr" />
-</p>
 
