@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @sklar
+# 👋 Hi, I'm sklar
 - 👀 I'm passionate about back-end development.
 - 🌱 Currently, I'm expanding my skills in full-stack development.
 - 📫 Feel free to reach out to me on [Instagram](https://www.instagram.com/skl2rr/).
