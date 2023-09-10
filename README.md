@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Sklar. 👋</h1>
-<img src="https://lanyard.cnrad.dev/api/1052211556735266856" alt="Discord Presence">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://lanyard.cnrad.dev/api/1052211556735266856" alt="Discord Presence">
+</div>
+
 
 Hello! I'm Sklar, a 15-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
 
