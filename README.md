@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sklar. 👋</h1>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1052211556735266856)](https://discord.com/users/1052211556735266856)
 Hello! I'm Sklar, a 15-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
 
 ## Skills & Tools
