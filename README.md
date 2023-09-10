@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm Sklar, a passionate software developer from Mo
 
 ## Statistics
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=skk2rr&layout=compact&theme=dark)](https://github.com/skk2rr)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=skl2rr&layout=compact&theme=dark)](https://github.com/skl2rr)
