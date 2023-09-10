@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Sklar, a passionate software developer from Mo
 - ⚡ Fun fact: I love to learn new things and read about new technologies.
 
 ## Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,vscode,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,vscode,git,github,)](https://skillicons.dev)
 
 ## Learning
 
