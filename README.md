@@ -1,4 +1,4 @@
-# Hi there, I'm Sklar. 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/skl2rr?style=social)](https://github.com/skl2rr)
 
