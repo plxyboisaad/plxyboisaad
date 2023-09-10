@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sklar. 👋</h1>
-![Discord Status](https://img.shields.io/discord/123456789012345678?color=blue&label=Discord%20Status&style=for-the-badge)
+![Discord Status](https://img.shields.io/discord/1052211556735266856?color=blue&label=Discord%20Status&style=for-the-badge)
 
 
 Hello! I'm Sklar, a 15-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
