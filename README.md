@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sklar. 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterUsername?style=social)](https://twitter.com/YourTwitterUsername)
+[![GitHub followers](https://img.shields.io/github/followers/skl2rr?style=social)](https://github.com/skl2rr)
+[![Twitter Follow](https://img.shields.io/instagram/follow/skl2rr?style=social)](https://instagram.com/skl2rr)
 
 Welcome to my GitHub profile! I'm Sklar, a passionate software developer from Morroco, with a love for Python. I'm constantly exploring new technologies and creating projects that showcase my skills. Here's a bit more about me:
 
@@ -15,8 +15,5 @@ Welcome to my GitHub profile! I'm Sklar, a passionate software developer from Mo
 
 ## GitHub Stats
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
-
-## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&bg_color=ffffff&color=000000&line=000000&point=007BFF)
 
 Feel free to explore my repositories and get in touch with me. I'm always open to collaboration and new opportunities!
