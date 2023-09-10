@@ -1,7 +1,4 @@
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <h1 style="font-size: 24px;">Hi there, I'm Sklar. 👋</h1>
-</div>
-
+<h1 align="center">Hi there, I'm Sklar. 👋</h1>
 
 Hi there, I'm Sklar, a 15 years old Learner, a passionate software developer from Morroco, with a love for Python. I'm constantly making new technologies and creating projects that showcase my skills.
 
