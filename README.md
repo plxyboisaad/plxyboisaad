@@ -1,5 +1,4 @@
 # Hi there, I'm Sklar. 👋
-
 [![GitHub followers](https://img.shields.io/github/followers/skl2rr?style=social)](https://github.com/skl2rr)
 
 Hi there, I'm Sklar, a 15 years old Learner, a passionate software developer from Morroco, with a love for Python. I'm constantly making new technologies and creating projects that showcase my skills.
