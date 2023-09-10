@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sklar. 👋</h1>
 
-Hi there, I'm Sklar, a 15 years old Learner, a passionate software developer from Morroco, with a love for Python. I'm continually working on new technologies and ongoing projects to showcase my skills.
+Hello! I'm Sklar, a 15-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
 
 ## Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,vscode,git,github,)](https://skillicons.dev)
