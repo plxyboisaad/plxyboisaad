@@ -12,7 +12,7 @@ Hello! I'm Sklar, a 15-year-old learner and passionate software developer from M
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,vscode,git,github,)](https://skillicons.dev)
 
 ## Learning
-[![My Skills](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,py)](https://skillicons.dev)
 
 
 ## Statistics
