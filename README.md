@@ -14,7 +14,7 @@ Hello! I'm Sklar, a 15-year-old learner and passionate software developer from M
 ## Learning
 [![My Skills](https://skillicons.dev/icons?i=ts,py)](https://skillicons.dev)
 
-
 ## Statistics
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=skl2rr&show_icons=true&theme=dark)](https://github.com/skl2rr)
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=skl2rr&layout=compact&theme=dark)](https://github.com/skl2rr)
+
