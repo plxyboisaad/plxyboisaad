@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm Sklar, a passionate software developer from Mo
 ## Learning
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-## GitHub Stats
+## Statistics
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
 
