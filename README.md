@@ -1,4 +1,4 @@
-## Hi there, I'm Sklar. 👋
+# Hi there, I'm Sklar. 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/skl2rr?style=social)](https://github.com/skl2rr)
 
