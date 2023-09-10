@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sklar. 👋</h1>
-<div style="text-align: center;">
-    <img src="https://lanyard.cnrad.dev/api/1052211556735266856" alt="Discord Presence" style="display: inline-block;">
+<div align="center">
+    <img src="https://lanyard.cnrad.dev/api/1052211556735266856" alt="Discord Presence">
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skl2rr&label=Profile%20views&color=0e75b6&style=flat" alt="skl2rr" />
