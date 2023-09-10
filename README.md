@@ -2,7 +2,7 @@
 <div style="text-align: center;">
     <img src="https://lanyard.cnrad.dev/api/1052211556735266856" alt="Discord Presence" style="display: inline-block;">
 </div>
-![Profile views:](https://komarev.com/ghpvc/?username=skl2rr&color=green)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skl2rr&label=Profile%20views&color=0e75b6&style=flat" alt="skl2rr" /> </p>
 
 Hello! I'm Sklar, a 15-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
 
