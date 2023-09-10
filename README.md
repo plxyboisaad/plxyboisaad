@@ -7,10 +7,9 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Role/Title] wi
 
 - 💼 I'm currently working at [Your Company/Institution].
 - 🌱 I'm currently learning [Something Interesting].
-- 💬 Ask me about [Topics you're knowledgeable about].
-- 📫 How to reach me: [Your Email Address].
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him].
-- ⚡ Fun fact: [Fun Fact about Yourself].
+- 💬 Ask me about 
+- 📫 How to reach me: Instagram - [@skl2rr](https://instagram.com/skl2rr/) or Discord - [skl2r](https://discord.gg/users/1052211556735266856)
+- ⚡ Fun fact: I love to learn new things and read about new technologies.
 
 ## 🛠️ Skills & Tools
 
