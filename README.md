@@ -1,6 +1,7 @@
 # Hi there, I'm Sklar. 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/skl2rr?style=social)](https://github.com/skl2rr)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 Welcome to my GitHub profile! I'm Sklar, a passionate software developer from Morroco, with a love for Python. I'm constantly exploring new technologies and creating projects that showcase my skills. Here's a bit more about me:
 
