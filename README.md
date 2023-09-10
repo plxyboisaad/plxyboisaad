@@ -18,4 +18,3 @@ Welcome to my GitHub profile! I'm Sklar, a passionate software developer from Mo
 ## GitHub Stats
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
 
-Feel free to explore my repositories and get in touch with me. I'm always open to collaboration and new opportunities!
