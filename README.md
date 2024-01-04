@@ -18,6 +18,6 @@ Hello! I'm Saad, a 16-year-old learner and passionate software developer from Mo
 [![My Skills](https://skillicons.dev/icons?i=ts,py)](https://skillicons.dev)
 
 ## Statistics
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=skl2r&show_icons=true&theme=dark)](https://github.com/plxyboisaad)
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=skl2r&layout=compact&theme=dark)](https://github.com/plxyboisaad)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=plxyboisaad&show_icons=true&theme=dark)](https://github.com/plxyboisaad)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=plxyboisaad&layout=compact&theme=dark)](https://github.com/plxyboisaad)
 
