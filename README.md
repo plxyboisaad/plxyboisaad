@@ -10,7 +10,7 @@ Hello! I'm Saad, a 16-year-old learner and passionate software developer from Mo
 
 ## Projects:
 - [Louminous Weather](https://louminousweather.netlify.app/): A simple JavaScript site for quick and accurate real-time weather updates.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91edff3f-c726-4ddb-b0ba-e69b6aa2bed6/deploy-status)](https://app.netlify.com/sites/louminouweather/deploys)
 
 ## Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,vscode,git,github,)](https://skillicons.dev)
