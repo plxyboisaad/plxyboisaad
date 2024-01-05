@@ -9,7 +9,7 @@
 Hello! I'm Saad, a 16-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
 
 ## Projects:
-[East Weather]((https://eastweather.netlify.app/)): A sleek JavaScript site for quick and accurate real-time weather updates.
+[East Weather]((https://eastweather.netlify.app/)): A simple JavaScript site for quick and accurate real-time weather updates.
 
 ## Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,vscode,git,github,)](https://skillicons.dev)
