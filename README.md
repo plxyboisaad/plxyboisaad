@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=skl2rr&label=Profile%20views&color=0e75b6&style=flat" alt="skl2rr" />
 </p>
 
-Hello! I'm Saad, a 15-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
+Hello! I'm Saad, a 16-year-old learner and passionate software developer from Morocco with a love for Python. I'm constantly working on new technologies and ongoing projects to showcase my skills.
 
 ## Projects:
 - [MaRs Weather](https://mars-sky.netlify.app/): A simple JavaScript site for quick and accurate real-time weather updates.
